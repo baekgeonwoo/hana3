@@ -1,0 +1,24 @@
+[33mcommit aedbbd54ad0ad5b851d1e97f3bffb8b625511f83[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 1fd6ce1 d56f41c
+Author: baekgeonwoo <binch789@naver.com>
+Date:   Fri Jan 19 15:08:36 2024 +0900
+
+    Merge branch 'master' of https://github.com/baekgeonwoo/hana3
+
+[33mcommit d56f41c7b818e9074cff8667075d99307270b490[m
+Author: baekgeonwoo <74844581+baekgeonwoo@users.noreply.github.com>
+Date:   Fri Jan 19 14:31:17 2024 +0900
+
+    readme projects appended
+
+[33mcommit e937feec25656b87669550e8df86783f2b9feb99[m
+Author: baekgeonwoo <74844581+baekgeonwoo@users.noreply.github.com>
+Date:   Fri Jan 19 14:29:49 2024 +0900
+
+    Initial commit
+
+[33mcommit 1fd6ce12b463f88c45e7fd88e881fbc9b725a78e[m
+Author: baekgeonwoo <binch789@naver.com>
+Date:   Fri Jan 19 14:20:55 2024 +0900
+
+    first commit message
